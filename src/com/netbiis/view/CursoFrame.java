@@ -29,7 +29,7 @@ public class CursoFrame extends JFrame {
 	private CursoController cursoController;
 
 	public CursoFrame() {
-		super("Cursos");
+		super("Curso");
 		Container container = getContentPane();
 		setLayout(null);
 
